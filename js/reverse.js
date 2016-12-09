@@ -8,3 +8,4 @@ for (var i = stringArr.length-1; i >= 0; i--) {
   reverseArr.push(stringArr[i]);
 }
 console.log(reverseArr);
+console.log(reverseArr.join(""));
